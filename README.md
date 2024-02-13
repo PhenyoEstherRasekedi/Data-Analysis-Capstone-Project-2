@@ -13,7 +13,7 @@ Survey Results: The primary dataset used for this analysis is the 'airline_data.
 ### Tools
 
 - Microsoft Excel- Data Cleaning, Data Analysis, Creating Report
-  -- [Download here](https://microsoft.com)
+  - [Download here](https://microsoft.com)
 
 ### Data Cleaning/Preparation
 
@@ -24,6 +24,10 @@ In the initial data preparation phase, I performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales sata to answer key questions, such as:
+EDA involved exploring the survey results to answer key questions, such as:
 
-- W
+- Which areas are passengers most unsatisfied with?
+- Does the passenger demographic indicate certain age groups or gender are more unsatisfied than the other?
+- Which key areas need improvement for each ticket class?
+- Does reason for travelling influence satisfaction? does it indicate a bias in the results.
+- Which key areas were first time travellers most unsatisfied with?
