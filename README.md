@@ -12,4 +12,12 @@ Survey Results: The primary dataset used for this analysis is the 'airline_data.
 
 ### Tools
 
-- Microsoft Excel- Data cleaning, Data Analysis, Creating report [Download here](https://microsoft.com)
+- Microsoft Excel- Data Cleaning, Data Analysis, Creating Report
+- [Download here](https://microsoft.com)
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase, I performed the following tasks:
+
+1. Data loading and inspection.
+2. Data Formating
