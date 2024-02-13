@@ -49,3 +49,19 @@ The analysis results are summarized as follows:
 3. For Economy and Economy Plus, most are neutral or unsatisfied with the arrival and departure delay. For Business class, the passengers are satisfied with all areas however, improvement could be made in flight delays as well.
 4. Most passengers travelling for business purposes where satisfied with all areas except arrival delay. Whilst most passengers travelling for personal reasons where unsatisfied or neutral on all areas. It could be argued that business passengers are usually in a hurry and focused on their destinations so pay no mind to small details. While those travelling for personal reasons like vacations are more mindful of the whole flight experience.
 5. A majority of first time customers were travelling for business purposes and were unsatisfied with the arrival delay.
+
+### Recomendations
+
+Based on the analysis, I recommend the following actions to improve key areas:
+
+- For arrival delay and departure delay, finding out what the major causes of delay are and improving them.
+- Baggage handling, encoding bag tags with video coding which allows bag source information to be encoded while the bag remains in motions. This minimizes both the physical work of operators mishandling bags and bottlenecks of missing luggage during peak times.
+- Food and drinks, an understanding of customer preferences, needs and expectations is needed to innovate the menu and add a personal touch.
+- In-flight service, additional or regular staff training.
+- Check-in service, investigate what makes the process difficult for users.
+- Ease of online booking, improve user interface.
+- Departure and arrival time convinience, implementing data-driven flight scheduling by leveraging data analytics and machine learning algorithms to help optimize flight schedules.
+
+### Limitations
+
+I had to modify the age and flight distance columns in smaller groups for a meaningful analysis. For age groups, 0-30 years were grouped as adolescents, 31-54 years as middle age and 55+ as old. Flight distance, 4000+ km was grouped as a long distance flight, 1001-3999km as medium and 0-1000km as short distance fights.
