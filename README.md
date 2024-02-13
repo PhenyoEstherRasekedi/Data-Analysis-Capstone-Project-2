@@ -2,6 +2,18 @@
 
 ## Data driven strategy to increase satisfaction rate at Dano Airlines
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation/Cleaning](#data-cleaningpreparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data analysis](#data-analysis)
+- [Results/findings](#resultsfindings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 ### Project Overview
 
 This data analysis project aims to provide insights into the latest passenger survey results of Dano Airlines that shows satisfaction rate dipped under 50% for the first time ever. By analysing various aspects of the survey results, I seek to analyze the data to find the key areas for the leadership team to focus on and data driven recommendations to get back on track.
@@ -50,7 +62,7 @@ The analysis results are summarized as follows:
 4. Most passengers travelling for business purposes where satisfied with all areas except arrival delay. Whilst most passengers travelling for personal reasons where unsatisfied or neutral on all areas. It could be argued that business passengers are usually in a hurry and focused on their destinations so pay no mind to small details. While those travelling for personal reasons like vacations are more mindful of the whole flight experience.
 5. A majority of first time customers were travelling for business purposes and were unsatisfied with the arrival delay.
 
-### Recomendations
+### Recommendations
 
 Based on the analysis, I recommend the following actions to improve key areas:
 
