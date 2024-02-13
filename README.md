@@ -31,3 +31,11 @@ EDA involved exploring the survey results to answer key questions, such as:
 - Which key areas need improvement for each ticket class?
 - Does reason for travelling influence satisfaction? does it indicate a bias in the results.
 - Which key areas were first time travellers most unsatisfied with?
+
+### Data Analysis
+
+Interesting formula I worked with was an if statement to categorize the age into age brackets
+
+`=IF(C129741>55,"Old",IF(C129741>=31,"Middle Age",IF(C129741<31,"Adolescent","Invalid")))`
+
+### Results/Findings
