@@ -29,7 +29,7 @@ Survey Results: The primary dataset used for this analysis is the 'airline_data.
 
 In the initial data preparation phase, I performed the following tasks:
 
-1. Data loading and inspection.
+1. Data loading and inspection
 2. Data cleaning and formatting
 
 ### Exploratory Data Analysis
