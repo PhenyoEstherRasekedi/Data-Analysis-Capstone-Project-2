@@ -1,2 +1,3 @@
-# Capstone-Project-2
- Data driven strategy to increase satisfaction rate at Dano Airlines 
+# Dano-Airlines
+
+Data driven strategy to increase satisfaction rate at Dano Airlines
