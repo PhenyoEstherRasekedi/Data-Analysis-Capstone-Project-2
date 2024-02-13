@@ -15,10 +15,10 @@
 ### Project Overview
 
 This data analysis project aims to provide insights into the latest passenger survey results of Dano Airlines that shows satisfaction rate dipped under 50% for the first time ever. By analysing various aspects of the survey results, I seek to analyze the data to find the key areas for the leadership team to focus on and give data driven recommendations to get back on track.
+
 **_Disclaimer_** : _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Excel._
 
 ![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-2/assets/155717861/6406c258-6ae5-49a2-adde-9dec7b1b7024)
-
 
 ### Data Sources
 
@@ -47,6 +47,11 @@ EDA involved exploring the survey results to answer key questions, such as:
 - Which key areas were first time travellers most unsatisfied with?
 
 ### Data Analysis
+
+The following Excel feautures were incorporated :
+
+- Filters
+- Pivot tables
 
 An interesting formula I worked with was an if statement to categorize the age into age brackets and flight distance into duration type.
 
