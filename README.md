@@ -1,4 +1,4 @@
-# Dano Airlines
+# Dano Airlines Dashboard
 
 ## Table of Contents
 
